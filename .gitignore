@@ -1,0 +1,7 @@
+# Fichiers sensibles ou inutiles à versionner
+*.log
+.DS_Store
+__pycache__/
+.env
+.vscode/
+*.tmp

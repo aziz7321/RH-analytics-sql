@@ -1,0 +1,6 @@
+# PostgreSQL
+postgresql>=15.0
+
+# Pour exécuter les scripts SQL depuis Python (optionnel)
+psycopg2-binary>=2.9.0
+pandas>=2.0.0
