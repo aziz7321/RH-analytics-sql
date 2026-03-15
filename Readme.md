@@ -75,6 +75,7 @@ Les données couvrent une période de **5 ans (2019-2023)** et concernent **1 50
 ### 📌 Modèle relationnel
 
 ```mermaid
+erDiagram
     departements ||--o{ employes : contient
     employes ||--o{ performances : realise
     employes ||--o{ turnover : concerne
@@ -113,4 +114,5 @@ Les données couvrent une période de **5 ans (2019-2023)** et concernent **1 50
         date date_depart
         string type_depart
         string anciennete
-    } 
+    }
+}
