@@ -1,3 +1,4 @@
+
 -- creation de la table departement 
 create table department (
 id_departement int ,
@@ -57,4 +58,5 @@ update employes
 SET cohorte = to_char(date_embauche,'yyyy-mm');
 
 select cohorte from employes;
+
 

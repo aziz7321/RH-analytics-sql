@@ -70,6 +70,17 @@ Les données couvrent une période de **5 ans (2019-2023)** et concernent **1 50
 
 ---
 
+## 📊 Dashboard Power BI
+
+Un tableau de bord interactif a été créé pour visualiser les résultats :
+
+### 📥 Téléchargement
+
+| Format | Lien |
+|--------|------|
+| 📊 **Power BI (.pbix)** | [Cliquez ici pour télécharger](Power_Bi/dashboard.pbix) |
+| 📄 **PDF** | [Cliquez ici pour télécharger](Power_Bi/dashboard.pdf) |
+
 ## 🗂️ Structure des données
 
 ### 📌 Modèle relationnel
