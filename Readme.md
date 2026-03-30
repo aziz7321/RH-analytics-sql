@@ -15,7 +15,7 @@
     <a href="#-auteur">Contact</a>
   </p>
   <p>
-    <a href="docs/insights.md">
+    <a href="Docs/insights.md">
       <img src="https://img.shields.io/badge/📊_Accéder_aux_Insights-Cliquez_ici-blue?style=for-the-badge" />
     </a>
   </p>
