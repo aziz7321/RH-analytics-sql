@@ -11,7 +11,7 @@
     <a href="#-description-du-projet">Description</a> •
     <a href="Data/departements.csv">Données</a> •
     <a href="Scripts/04_Analyse_Requête.sql">Questions</a> •
-    <a href="docs/insights.md">📘 Insights</a> •
+    <a href="Docs/insights.md">📘 Insights</a> •
     <a href="#-auteur">Contact</a>
   </p>
   <p>
